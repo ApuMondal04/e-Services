@@ -20,7 +20,7 @@
     <!-- Custom css -->
     <link rel="stylesheet" href="css/custom.css">
 
-    <title>eServices Test</title>
+    <title>eServices</title>
 </head>
 
 <body>
