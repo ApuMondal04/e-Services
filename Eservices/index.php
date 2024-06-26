@@ -20,7 +20,7 @@
     <!-- Custom css -->
     <link rel="stylesheet" href="css/custom.css">
 
-    <title>eService update</title>
+    <title>eServices</title>
 </head>
 
 <body>
